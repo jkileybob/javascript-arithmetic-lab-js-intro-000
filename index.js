@@ -10,3 +10,8 @@ function multiply(a,b) {
 function divide(a,b){
   return (a/b)
 }
+function increment(){
+  var n = 0;
+  n++;
+  return n;
+}
